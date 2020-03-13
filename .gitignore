@@ -33,4 +33,4 @@ __pycache__
 /*.sh
 *.csv
 /celerybeat-schedule.db
-/env_py37/
+/virtual_workspace/
