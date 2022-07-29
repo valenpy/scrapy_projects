@@ -27,7 +27,7 @@ pyparsing==2.4.6
 pytest==5.3.5
 pytest-runner==5.2
 queuelib==1.5.0
-Scrapy==1.6.0
+Scrapy==2.6.2
 service-identity==18.1.0
 six==1.14.0
 Twisted==19.10.0
